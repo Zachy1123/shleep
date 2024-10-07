@@ -1,0 +1,4 @@
+0 Rocher
+1 Papier
+2 Ciseaux
+3 Rien
